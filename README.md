@@ -81,4 +81,3 @@ curl -X POST -H "Content-Type: application/json" \
   -d '{"message": "Hello from your server"}' \
   http://146.190.1.254/echo
 ```
-  
